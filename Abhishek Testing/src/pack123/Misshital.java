@@ -1,6 +1,8 @@
 package pack123;
 
 public class Misshital {
-	String d= "Velocity";
+	public static void main(String[] args) {
+		System.out.println("ABA");
+	}
 
 }
