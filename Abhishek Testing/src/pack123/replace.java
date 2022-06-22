@@ -9,13 +9,13 @@ public class replace
 	System.out.println(a);
 	 
 	
-	//a= a.replace('B', 'b');
-	//System.out.println(a);
+	a= a.replace('B', 'b');
+	System.out.println(a);
 	
-	//a= a.replace('P', 'p');
-	//System.out.println(a);
+	a= a.replace('P', 'p');
+	System.out.println(a);
 	
-	//a= a.replace('C', 'c');
-	//System.out.println(a);
+    a= a.replace('C', 'c');
+	System.out.println(a);
 	}
 }
