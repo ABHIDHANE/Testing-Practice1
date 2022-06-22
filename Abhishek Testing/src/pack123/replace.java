@@ -8,8 +8,6 @@ public class replace
 	a= a.replace('V', 'v');
 	System.out.println(a);
 	
-	a= a.replace('T', 't');
-	System.out.println(a);
 	
 	a= a.replace('B', 'b');
 	System.out.println(a);

@@ -16,9 +16,7 @@ public class methodtypes1
 	
 	int size = a.length();
 	System.out.println(size);
-	
-	char s = a.charAt(3);
-	System.out.println("s="+s);
+
 	
 	a= a.concat("Class");
 	System.out.println(a);
